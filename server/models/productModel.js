@@ -1,0 +1,1 @@
+// Sequelize/Prisma product schema
